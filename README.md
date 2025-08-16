@@ -9,66 +9,69 @@
 
 ---
 
-### 🚀 Mere baare mai
-- 👨‍💻 Main **Solidity + Ethereum** par **smart contracts** likhta hoon (ERC-20, ERC-721, crowdsale, vesting, pausable, upgradeable).
-- 🧰 Tech: **Solidity, Hardhat, Remix, OpenZeppelin, Ethers.js/Web3.js, Node.js, IPFS, Pinata**
-- 🔒 Focus: **security, gas optimization, audits-style checks**
-- 🌱 Learning: L2s, Foundry, zk, account abstraction
+### 🚀 About Me
+- 👨‍💻 I write **smart contracts on Solidity + Ethereum** (ERC-20, ERC-721, crowdsale, vesting, pausable, upgradeable).
+- 🧰 Tech Stack: **Solidity, Hardhat, Remix, OpenZeppelin, Ethers.js/Web3.js, Node.js, IPFS, Pinata**
+- 🔒 Focus Areas: **security, gas optimization, audit-style reviews**
+- 🌱 Currently exploring: **Layer 2s, Foundry, zk, account abstraction**
 
 ---
 
 ### 🛠 Skills
-`Solidity` · `Hardhat` · `Foundry` · `OpenZeppelin` · `Ethers.js` · `Web3.js` · `IPFS` · `Pinata` · `TypeScript/Node.js` · `Next.js` · `Metamask / WalletConnect`
+`Solidity` · `Hardhat` · `Foundry` · `OpenZeppelin` · `Ethers.js` · `Web3.js` ·  
+`IPFS` · `Pinata` · `TypeScript/Node.js` · `Next.js` · `Metamask / WalletConnect`
 
 ---
 
 ### 📦 Featured Projects
-> Neeche links me apne repos/tx links daal dein.
+> Replace placeholders with your repo/tx links.
 
-1. **NafalogyCoin (NFG) — ERC-20 Token (Sepolia)**
+1. **NafalogyCoin (NFG) — ERC-20 Token (Sepolia)**  
    - Contract: `0x...`  
    - Etherscan: https://sepolia.etherscan.io/address/0xYourTokenAddress  
-   - Features: capped + pausable + burnable, initial supply minting
-2. **NFT Mint dApp (ERC-721)**
+   - Features: capped + pausable + burnable, initial supply minting  
+
+2. **NFT Mint dApp (ERC-721)**  
    - Repo: https://github.com/nafalogy/nft-mint-dapp  
    - Live (testnet): https://your-dapp.vercel.app  
-   - Features: whitelist/merkle, reveal, royalties
-3. **Crowdsale / Presale Smart Contracts**
+   - Features: whitelist/merkle, reveal system, royalties  
+
+3. **Crowdsale / Presale Smart Contracts**  
    - Repo: https://github.com/nafalogy/presale-contracts  
-   - Notes: soft/hard cap, vesting, claim portal
+   - Features: soft/hard cap, vesting, claim portal  
 
 ---
 
-### 🧪 Testnet Deploys
-- **Sepolia**: `0xYourTokenAddress` (Token)  
+### 🧪 Testnet Deployments
+- **Sepolia**: `0xYourTokenAddress` (ERC-20 Token)  
 - **Tx Proofs**:  
   - Deploy Tx: https://sepolia.etherscan.io/tx/0xYourDeployHash  
-  - Mint/Burn/Transfer Calls: add links here
+  - Mint/Burn/Transfer Calls: (add links here)  
 
 ---
 
-### 🧯 Security Checklist (mera process)
+### 🧯 Security Checklist (my process)
 - ✅ OpenZeppelin base + latest compiler  
 - ✅ Reentrancy guards, access control (Ownable / Roles)  
-- ✅ Overflow checks (Solidity ^0.8) + custom errors  
-- ✅ Test coverage (Hardhat + Foundry)  
-- ✅ Slither/Static analysis (where possible)  
+- ✅ Overflow protection (Solidity ^0.8) + custom errors  
+- ✅ Unit tests (Hardhat + Foundry)  
+- ✅ Static analysis (Slither/others when available)  
 
 ---
 
-### 💼 Services (jo mai offer karta hoon)
-- Token development (ERC-20/721/1155, vesting, airdrop)
-- Presale/IDO contracts + claim portals
-- dApp integration (Ethers.js + Next.js)
-- Contract review & basic security pass
-- Deployment + verification + docs
+### 💼 Services I Offer
+- Token development (**ERC-20/721/1155**, vesting, airdrops)  
+- Presale/IDO smart contracts + claim portals  
+- dApp integration (Ethers.js + Next.js)  
+- Contract review & basic security checks  
+- Deployment, verification, and documentation  
 
-> **Work inquiry:** `your@email.com` | Telegram: `@yourusername`
+📩 **Work inquiries:** `your@email.com` | Telegram: `@yourusername`
 
 ---
 
 ### 📚 Learning & Blogs
-- Gas optimization tips, upgradeable patterns, test examples (jaldi publish karunga)
+- Publishing soon: **gas optimization tips, upgradeable patterns, test examples**
 
 ---
 
@@ -80,6 +83,6 @@
 
 ---
 
-### 🤝 Collab / Hire
-Agar aapko **token, presale, NFT, ya koi custom smart contract** chahiye ho — DM/email kar dein.  
-Main **requirements → architecture → implementation → test → deploy → docs** complete flow deta hoon.
+### 🤝 Collaboration / Hire Me
+If you need a **token, presale, NFT, or any custom smart contract** — feel free to DM/email me.  
+I deliver the **full pipeline:** requirements → architecture → implementation → testing → deployment → docs.  
