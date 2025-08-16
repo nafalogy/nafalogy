@@ -31,14 +31,11 @@
    - Etherscan: https://sepolia.etherscan.io/address/0x12964efFBA71E4c0f6c6379470d0E9F86E95C8Bd
    - Features: capped + pausable + burnable, initial supply minting  
 
-2. **NFT Mint dApp (ERC-721)**  
-   - Repo: https://github.com/nafalogy/nft-mint-dapp  
-   - Live (testnet): https://your-dapp.vercel.app  
-   - Features: whitelist/merkle, reveal system, royalties  
+2. **NFT Mint dApp (ERC-721)** — *Coming Soon*
+   - Features: whitelist/merkle, reveal system, royalties
 
-3. **Crowdsale / Presale Smart Contracts**  
-   - Repo: https://github.com/nafalogy/presale-contracts  
-   - Features: soft/hard cap, vesting, claim portal  
+3. **Crowdsale / Presale Smart Contracts** — *Coming Soon*
+   - Features: soft/hard cap, vesting, claim portal
 
 ---
 
