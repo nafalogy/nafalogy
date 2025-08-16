@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Nafalogy — Blockchain Developer (Solidity • Web3)</h1>
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> •
+  <a href="mailto:nafalogy@email.com">Email</a> •
   <a href="https://t.me/yourusername">Telegram</a> •
   <a href="https://www.linkedin.com/in/yourhandle/">LinkedIn</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a>
+  <a href="https://x.com/nafalogy">Twitter</a>
 </p>
 
 ---
