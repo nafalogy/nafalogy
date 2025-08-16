@@ -40,10 +40,10 @@
 ---
 
 ### 🧪 Testnet Deployments
-- **Sepolia**: `0xYourTokenAddress` (ERC-20 Token)  
+- **Sepolia**: `0x12964efFBA71E4c0f6c6379470d0E9F86E95C8Bd` (ERC-20 Token — NafalogyCoin NFG)  
 - **Tx Proofs**:  
-  - Deploy Tx: https://sepolia.etherscan.io/tx/0xYourDeployHash  
-  - Mint/Burn/Transfer Calls: (add links here)  
+  - Deploy Tx: [0x97891cf8c03bcd8b2c8cf02fbb8db57c0a56a024e5e3ab0a287f1c1e2dfcbd91](https://sepolia.etherscan.io/tx/0x97891cf8c03bcd8b2c8cf02fbb8db57c0a56a024e5e3ab0a287f1c1e2dfcbd91)  
+  - Transfer Tx: [0x434c1580aa789c91c449a1b390f6b7262346c4d26306cbfb0f3f32f64715568a](https://sepolia.etherscan.io/tx/0x434c1580aa789c91c449a1b390f6b7262346c4d26306cbfb0f3f32f64715568a)
 
 ---
 
