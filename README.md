@@ -42,8 +42,8 @@
 ### 🧪 Testnet Deployments
 - **Sepolia**: `0x12964efFBA71E4c0f6c6379470d0E9F86E95C8Bd` (ERC-20 Token — NafalogyCoin NFG)  
 - **Tx Proofs**:  
-  - Deploy Tx: [0x97891cf8c03bcd8b2c8cf02fbb8db57c0a56a024e5e3ab0a287f1c1e2dfcbd91](https://sepolia.etherscan.io/tx/0x97891cf8c03bcd8b2c8cf02fbb8db57c0a56a024e5e3ab0a287f1c1e2dfcbd91)  
-  - Transfer Tx: [0x434c1580aa789c91c449a1b390f6b7262346c4d26306cbfb0f3f32f64715568a](https://sepolia.etherscan.io/tx/0x434c1580aa789c91c449a1b390f6b7262346c4d26306cbfb0f3f32f64715568a)
+  - Deploy Tx: [0x612858d2943f12e79a5e41d9dc65964ec89ea73923530d0525b51281ce87f9d1](https://sepolia.etherscan.io/tx/0x612858d2943f12e79a5e41d9dc65964ec89ea73923530d0525b51281ce87f9d1)  
+  - Transfer Tx: [0xf472d5f1c1878b8d1c28a0f8841115518d4bf39d55f59e0b4029091275459c45](https://sepolia.etherscan.io/tx/0xf472d5f1c1878b8d1c28a0f8841115518d4bf39d55f59e0b4029091275459c45)
 
 ---
 
