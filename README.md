@@ -27,8 +27,8 @@
 > Replace placeholders with your repo/tx links.
 
 1. **NafalogyCoin (NFG) — ERC-20 Token (Sepolia)**  
-   - Contract: `0x...`  
-   - Etherscan: https://sepolia.etherscan.io/address/0xYourTokenAddress  
+   - Contract: `0x12964efFBA71E4c0f6c6379470d0E9F86E95C8Bd`  
+   - Etherscan: https://sepolia.etherscan.io/address/0x12964efFBA71E4c0f6c6379470d0E9F86E95C8Bd
    - Features: capped + pausable + burnable, initial supply minting  
 
 2. **NFT Mint dApp (ERC-721)**  
